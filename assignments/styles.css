@@ -5,6 +5,7 @@ body {
     background-color: #F7F5F1;
     box-sizing: border-box;
 }
+
 #assignment-container {
     display: flex;
     justify-content: center;

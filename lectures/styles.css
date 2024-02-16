@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: #F7F5F1;
+    box-sizing: border-box;
+}
+
+#table-container {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #78C272;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #78C272;
+    color: #F7F5F1;
+    font-size: 1.1em;
+}
+
+/* Style for odd rows */
+tbody tr:nth-child(odd) {
+    background-color: #F1F9F0;
+}
+
+/* Style for even rows */
+tbody tr:nth-child(even) {
+    background-color: #FFF;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}

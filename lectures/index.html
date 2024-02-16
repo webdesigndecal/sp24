@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WDD Resources</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <template id="lecture-template">
+        <tr id="lecture-container">
+            <td id="lecture-week"><!-- Populated by JS --></td>
+            <td id="lecture-title"><!-- Populated by JS --></td>
+            <td id="lecture-youtube"><a id="lecture-youtube-link">Recording</a></td>
+            <td id="programming-slides"><a id="programming-slides-link">Slides</a></td>
+            <td id="design-slides"><a id="design-slides-link">Slides</a></td>
+        </tr>
+    </template>
+    
+    <h1>Lectures</h1>
+    <h2>If you went to a lecture, fill out this <a href="https://forms.gle/f6VhMVVptkXbJgW56">attendance form</a> with the secret word.</h2>
+    <div id="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Week</th>
+                    <th>Title</th>
+                    <th>Recording</th>
+                    <th>Programming</th>
+                    <th>Design</th>
+                </tr>
+            </thead>
+            <tbody id="weeks">
+                <!-- Populated by JS -->
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
