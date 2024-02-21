@@ -1,5 +1,5 @@
 /* UPDATE FOR EVERY ASSIGNMENT: */
-const assignments = ['lab1', 'hw1', 'lab2', 'hw2'];
+const assignments = ['lab1', 'hw1', 'lab2', 'hw2', 'lab3', 'hw3'];
 
 const template = document.getElementById('assignment-template');
 
