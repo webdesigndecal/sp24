@@ -20,6 +20,13 @@ const lectures = [
         programming_slides: "https://docs.google.com/presentation/d/1IzRDV8AKZjgaxoNqlYKWVDetI7F0eCM5KxLpGc2tbxQ/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1iWcC5dw68IBLLAjBDThG2L1b9ATecdUJ4A477LUOSGo/edit?usp=sharing",
         youtube: "https://www.youtube.com/watch?v=oWPuZUrkovk",
+    }, {
+        week: 4,
+        programming_title: "CSS Positioning and Centering",
+        design_title: "Color Theory",
+        programming_slides: "https://docs.google.com/presentation/d/15wUeN5ZqkM2vA5F4uhMLufOSvUNowm0fZP2znWLX_wY/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/1-Xl2jQ7S5YydU9cHupxwqhAeeSIEAFGCH77Q2WkTuSs/edit?usp=sharing",
+        youtube:"",
     }
 ]
 
