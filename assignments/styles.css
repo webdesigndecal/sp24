@@ -1,10 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
 
 body {
     font-family: 'Karla', sans-serif;
     background-color: #F7F5F1;
     box-sizing: border-box;
+    margin: 5%;
 }
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 500;
+}
+h2 a { 
+    color:#0072BB; 
+}
+
+h2 a:visited { color:#03588E; }
 
 #assignment-container {
     display: flex;
@@ -30,4 +44,5 @@ body {
     flex-direction: column;
     align-items: center;
     width: 30%;
+    font-weight: 500;
 }
