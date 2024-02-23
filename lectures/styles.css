@@ -1,10 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
 
 body {
     font-family: 'Karla', sans-serif;
     background-color: #F7F5F1;
     box-sizing: border-box;
+    margin: 5%;
 }
+
+h2 a { color:#0072BB; }
+
+h2 a:visited { color:#03588E; }
 
 #table-container {
     border-radius: 8px;
@@ -15,6 +20,7 @@ body {
 table {
     width: 100%;
     border-collapse: collapse;
+
 }
 
 thead {
@@ -26,6 +32,7 @@ thead {
 /* Style for odd rows */
 tbody tr:nth-child(odd) {
     background-color: #F1F9F0;
+    
 }
 
 /* Style for even rows */
@@ -36,4 +43,15 @@ tbody tr:nth-child(even) {
 th, td {
     padding: 8px;
     text-align: center;
+}
+
+
+#programming-slides-link, #design-slides-link, #lecture-youtube-link {
+    text-decoration: none;
+    color: #055864;
+    font-weight: 600;
+}
+
+#programming-slides-link {
+    color:#0072BB;
 }
