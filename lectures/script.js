@@ -26,7 +26,7 @@ const lectures = [
         design_title: "Color Theory",
         programming_slides: "https://docs.google.com/presentation/d/15wUeN5ZqkM2vA5F4uhMLufOSvUNowm0fZP2znWLX_wY/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1-Xl2jQ7S5YydU9cHupxwqhAeeSIEAFGCH77Q2WkTuSs/edit?usp=sharing",
-        youtube:"",
+        youtube:"https://youtu.be/5vCGYtIDyZM",
     }
 ]
 
