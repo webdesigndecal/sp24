@@ -1,6 +1,6 @@
 /* UPDATE FOR EVERY ASSIGNMENT: */
 
-const assignments = ['lab1', 'hw1', 'lab2', 'hw2', 'lab3', 'hw3', 'hw4', 'midterm'];
+const assignments = ['lab1', 'hw1', 'lab2', 'hw2', 'lab3', 'hw3', 'hw4', 'midterm', 'lab4'];
 
 
 const template = document.getElementById('assignment-template');
