@@ -33,7 +33,7 @@ const lectures = [
         design_title: "Images and Layouts",
         programming_slides: "https://docs.google.com/presentation/d/1bNQ7w6wOBTV8iS6D6lPOxX1aqTSmuM1Gp9yf858vizo/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1PiFaiBA8xwSrGZAjjTi5DvOKozYJy6fBnNL-iDY3q48/edit?usp=sharing",
-        youtube:"",
+        youtube:"https://youtu.be/wv17R2Jw91o",
     }
 ]
 
