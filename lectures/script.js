@@ -27,6 +27,27 @@ const lectures = [
         programming_slides: "https://docs.google.com/presentation/d/15wUeN5ZqkM2vA5F4uhMLufOSvUNowm0fZP2znWLX_wY/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1-Xl2jQ7S5YydU9cHupxwqhAeeSIEAFGCH77Q2WkTuSs/edit?usp=sharing",
         youtube:"https://youtu.be/5vCGYtIDyZM",
+    }, {
+        week: 5,
+        programming_title: "Flexbox and Layouts",
+        design_title: "Images and Layouts",
+        programming_slides: "https://docs.google.com/presentation/d/1bNQ7w6wOBTV8iS6D6lPOxX1aqTSmuM1Gp9yf858vizo/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/1PiFaiBA8xwSrGZAjjTi5DvOKozYJy6fBnNL-iDY3q48/edit?usp=sharing",
+        youtube:"https://youtu.be/wv17R2Jw91o",
+    }, {
+        week: 6,
+        programming_title: "CSS Animations",
+        design_title: "Motion, Flow & Aesthetic",
+        programming_slides: "https://docs.google.com/presentation/d/1DrsGzo0PHpWCLsMHrcaD9JkGoDJYiEXZHXLaj7WZfOM/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/1_7jufKS2w60BtvHdaYV0OLjFOv-0q4KdUm01ukXArVI/edit?usp=sharing",
+        youtube:"https://youtu.be/XnCIPeQRbDI",
+    }, {
+        week: 7,
+        programming_title: "Responsive Layouts",
+        design_title: "Responsive Design",
+        programming_slides: "https://docs.google.com/presentation/d/1wJRv4qaLQWyyY2fyCU_hJVI8CeJNKN7SCpSJ9rwXaoU/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/1vFnRqvuytpDmhsM4JciR_gYm2lK4_aJ3cfcUfoQU99k/edit?usp=sharing",
+        youtube:"https://youtu.be/XnCIPeQRbDI",
     }
 ]
 
