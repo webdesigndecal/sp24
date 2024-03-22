@@ -1,10 +1,6 @@
 /* UPDATE FOR EVERY ASSIGNMENT: */
 
-<<<<<<< HEAD
-const assignments = ['lab1', 'hw1', 'lab2', 'hw2', 'lab3', 'hw3', 'hw4', 'midterm', 'lab4', 'hw5', 'hw6', 'hw7'];
-=======
-const assignments = ['lab1', 'hw1', 'lab2', 'hw2', 'lab3', 'hw3', 'hw4', 'midterm', 'hw5', 'lab4', 'lab5', 'hw6'];
->>>>>>> ed6c789acad3c01345265922ce852459cae0d371
+const assignments = ['lab1', 'hw1', 'lab2', 'hw2', 'lab3', 'hw3', 'hw4', 'midterm', 'hw5', 'lab4', 'lab5', 'hw6', 'hw7'];
 
 
 const template = document.getElementById('assignment-template');
