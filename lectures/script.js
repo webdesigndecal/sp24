@@ -48,6 +48,20 @@ const lectures = [
         programming_slides: "https://docs.google.com/presentation/d/1wJRv4qaLQWyyY2fyCU_hJVI8CeJNKN7SCpSJ9rwXaoU/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1vFnRqvuytpDmhsM4JciR_gYm2lK4_aJ3cfcUfoQU99k/edit?usp=sharing",
         youtube:"https://youtu.be/XnCIPeQRbDI",
+    }, {
+        week: 8,
+        programming_title: "Intro to JavaScript",
+        design_title: "Intro to Human Centered Design",
+        programming_slides: "https://docs.google.com/presentation/d/1M534mRjJwUqAdenKkDJHlm14pPPX0RDw_RkQ561mfBc/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/189DfNjr3Y-lgp4WPDGalzqcO-8xRLD43Djnbc_Zwbgo/edit?usp=sharing",
+        youtube:"https://youtu.be/0I8XHA_H0_4",
+    }, {
+        week: 9,
+        programming_title: "How JavaScript Meets HTML/CSS",
+        design_title: "Dark Design Patterns",
+        programming_slides: "https://docs.google.com/presentation/d/14Oa-BNf-6ghhK5HVDUYUP4ux9OzuTEr5DaZnvO9UojQ/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/1NFP3ptkPHRmqPigvsfEeMixnsNOy_wpJyc2-9-LWxgA/edit?usp=sharing",
+        youtube:"https://youtu.be/y22r_kBeAoM",
     }
 ]
 
