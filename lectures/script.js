@@ -62,6 +62,13 @@ const lectures = [
         programming_slides: "https://docs.google.com/presentation/d/14Oa-BNf-6ghhK5HVDUYUP4ux9OzuTEr5DaZnvO9UojQ/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1NFP3ptkPHRmqPigvsfEeMixnsNOy_wpJyc2-9-LWxgA/edit?usp=sharing",
         youtube:"https://youtu.be/y22r_kBeAoM",
+    }, {
+        week: 10,
+        programming_title: "Event Handlers & Conditionals",
+        design_title: "Accessibility",
+        programming_slides: "https://docs.google.com/presentation/d/1ZGxZiHK4QoIHwbrO7TWrbri59JQGArlsqC-95jgDFoU/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/1TlN8CSJ16Oyb8MJbNFluFVWToEc66a3M7rlbRkKT3EA/edit?usp=sharing",
+        youtube:"https://youtu.be/Sfw1qV704-g",
     }
 ]
 
