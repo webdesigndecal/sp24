@@ -68,7 +68,7 @@ const lectures = [
         design_title: "Accessibility",
         programming_slides: "https://docs.google.com/presentation/d/1ZGxZiHK4QoIHwbrO7TWrbri59JQGArlsqC-95jgDFoU/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1TlN8CSJ16Oyb8MJbNFluFVWToEc66a3M7rlbRkKT3EA/edit?usp=sharing",
-        youtube:"https://youtu.be/Sfw1qV704-g",
+        youtube:"https://youtu.be/Sfw1qV704-g?feature=shared",
     }
 ]
 
