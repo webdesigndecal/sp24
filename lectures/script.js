@@ -69,6 +69,13 @@ const lectures = [
         programming_slides: "https://docs.google.com/presentation/d/1ZGxZiHK4QoIHwbrO7TWrbri59JQGArlsqC-95jgDFoU/edit?usp=sharing",
         design_slides: "https://docs.google.com/presentation/d/1TlN8CSJ16Oyb8MJbNFluFVWToEc66a3M7rlbRkKT3EA/edit?usp=sharing",
         youtube:"https://youtu.be/Sfw1qV704-g?feature=shared",
+    }, {
+        week: 11,
+        programming_title: "Loops, Arrays and Libraries",
+        design_title: "Finding Inspiration + Building a Portfolio",
+        programming_slides: "https://docs.google.com/presentation/d/1EdlGevfZ27k8u6ABKHZjF0Jk2GyrX4T94LlGaRQlIfc/edit?usp=sharing",
+        design_slides: "https://docs.google.com/presentation/d/12O7yqceOuWNx-6PfNuhTPoM_cxu-VqqGVKVRRI935Gc/edit?usp=sharing",
+        youtube:"https://youtu.be/Sfw1qV704-g?feature=shared",
     }
 ]
 
